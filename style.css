@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: aliceblue;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+}
+.login {
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px;
+    position: absolute;
+    top: 0; 
+    bottom: 0;
+    left: 0; 
+    right: 0;
+    margin: auto;
+}
+.login > p {
+    text-align: center;
+}
+.logo {
+    text-align: center;
+    padding: 15px;
+    font-size: 20pt;
+}
+.log {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+/*pagina 02*/
+.login2 {
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px;
+    position: absolute;
+    top: 0; 
+    bottom: 0;
+    left: 0; 
+    right: 0;
+    margin: auto;
+}
+.login2 > p {
+    text-align: center;
+}
+.logo2 {
+    text-align: center;
+    padding: 15px;
+    font-size: 20pt;
+}
+.log2 {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
